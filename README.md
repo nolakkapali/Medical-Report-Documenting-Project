@@ -5,6 +5,6 @@ The audio is a collection of 57 mock medical primary care consultations held ove
 PriMock57 : [Link]("https://github.com/babylonhealth/primock57/tree/main")
 The audion file: [Audio Link](https://github.com/babylonhealth/primock57/blob/main/audio/day1_consultation03_patient.wav)
 This repository contains the audio data <br>
-PriMock57: [A Dataset Of Primary Care Mock Consultations] ("https://arxiv.org/abs/2204.00333")
-[Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation] (:https://arxiv.org/abs/2204.00447")
+PriMock57: [A Dataset Of Primary Care Mock Consultations]("https://arxiv.org/abs/2204.00333")
+[Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation]("https://arxiv.org/abs/2204.00447")
 
